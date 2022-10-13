@@ -20,14 +20,11 @@ nav{
 nav ul{
     display:flex;
     list-style-type: none;
-    background-color: black;
-    height: 50px;
     color:rgb(202, 236, 174);
 }
 
 ul li a {
     text-decoration: none;
-    padding-left: 50px;
     font-size: 24px;
     font-weight: bold;
     color:silver;
@@ -62,7 +59,7 @@ ul li a:hover::before {
     font-weight: bolder;
 }
 
-.Container{
+.Containers{
     min-height: 70vh;
     background-color: black;
     color:white;
